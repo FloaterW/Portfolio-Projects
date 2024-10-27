@@ -30,4 +30,5 @@ A functional chess game implementing standard chess rules.
 
 ## 📫 Connect with Me
 
-Feel free to explore the projects in this repository, and if you have any questions or collaboration ideas, reach out! You can contact me at wahabf@oregonstate.edu or connect with me on [LinkedIn](linkedin.com/in/farad-wahab-44010975).
+Feel free to explore the projects in this repository, and if you have any questions or collaboration ideas, reach out! You can contact me at wahabf@oregonstate.edu or connect with me on [LinkedIn](linkedin.com/in/farad-wahab-44010975
+).
