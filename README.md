@@ -16,7 +16,7 @@ A full-featured online banking system with secure transactions.
 - **Features**: Account management, deposits, withdrawals, real-time updates, and third-party payment integration.
 - **Impact**: Handles up to 100,000 transactions with a secure architecture, processing over $10,000 in monthly transactions.
 
-### [Chess Game](https://github.com/FloaterW/Portfolio-Projects/chess-game)
+### [Chess Game](https://github.com/FloaterW/Portfolio-Projects/blob/main/Chess%20Game.py)
 A functional chess game implementing standard chess rules.
 - **Tech Stack**: `Python`, `Pygame`
 - **Features**: Legal move validation, check and checkmate detection, and a clean, modular codebase.
